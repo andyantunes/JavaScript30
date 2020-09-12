@@ -4,6 +4,10 @@ html {
   background-size: cover;
 }
 
+body {
+  height: 100vh;
+}
+
 body,
 html {
   margin: 0;
@@ -11,10 +15,23 @@ html {
   font-family: sans-serif;
 }
 
+.title {
+  text-align: center;
+  height: 10%;
+}
+
+.title h1 {
+  font-size: 13rem;
+  color: #fff;
+  margin: 0;
+  padding: 3rem 0 0 0;
+  -webkit-text-stroke: 2px black;
+}
+
 .keys {
   display: flex;
   flex: 1;
-  min-height: 100vh;
+  min-height: 90%;
   align-items: center;
   justify-content: center;
 }
