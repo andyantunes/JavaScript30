@@ -2,19 +2,19 @@
 
 This repository is intended for the 30 day Vanilla JS Challenge.
 
-* 30 challenges
-* One challenge a day
-* No Frameworks
-* No compillers
-* No libs
-* Just Vanilla JS
+- 30 challenges
+- One challenge a day
+- No Frameworks
+- No compillers
+- No libs
+- Just Vanilla JS
 
 https://javascript30.com/
 
 <h2> challenges </h2>
 
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%201%20-%20Drum%20Kit">Day 1 - Drum Kit</a>
-- [ ] CSS + JS Clock
+- [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%202%20-%20CSS%20%2B%20JS%20Clock">CSS + JS Clock</a>
 - [ ] Playing with CSS variables and JS
 - [ ] Array cardio Day 1
 - [ ] Flex panel image gallery
