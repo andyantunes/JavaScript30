@@ -78,3 +78,15 @@ body {
 .no-transition {
   transition: none !important;
 }
+
+.icon-reference {
+  position: absolute;
+  bottom: 1rem;
+  left: 1rem;
+  font-size: 12px;
+  color: white;
+}
+
+.icon-reference a {
+  color: inherit;
+}
