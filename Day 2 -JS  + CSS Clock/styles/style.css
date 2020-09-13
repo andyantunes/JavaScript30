@@ -35,12 +35,34 @@ body {
 
 .hand {
   width: 50%;
-  height: 6px;
-  background: black;
+  height: 5px;
+  background: rgba(0, 0, 0, 0.8);
   position: absolute;
   top: 50%;
   transform-origin: 100%;
   transform: rotate(90deg);
   transition: all 0.5s;
   transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
+}
+
+.hand.hour-hand {
+  width: 40%;
+  transform-origin: 113%;
+}
+
+.hand.second-hand {
+  width: 62%;
+  height: 3px;
+  transform-origin: 80%;
+  background: rgba(255, 0, 0, 0.7);
+}
+
+.center-point {
+  position: absolute;
+  height: 4px;
+  width: 4px;
+  background: black;
+  top: 50%;
+  left: 49%;
+  border-radius: 50%;
 }
