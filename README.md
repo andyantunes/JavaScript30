@@ -14,7 +14,7 @@ https://javascript30.com/
 <h2> challenges </h2>
 
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%201%20-%20Drum%20Kit">Day 1 - Drum Kit</a>
-- [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%202%20-%20CSS%20%2B%20JS%20Clock">CSS + JS Clock</a>
+- [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%202%20-%20CSS%20%2B%20JS%20Clock">Day 2 - CSS + JS Clock</a>
 - [ ] Playing with CSS variables and JS
 - [ ] Array cardio Day 1
 - [ ] Flex panel image gallery
