@@ -10,9 +10,16 @@ body {
   margin: 0;
   font-size: 2rem;
   display: flex;
+  flex-direction: column;
   flex: 1;
   min-height: 100vh;
   align-items: center;
+}
+
+.title .title-content {
+  font-size: 6.5rem;
+  color: white;
+  -webkit-text-stroke: 2px rgba(0, 0, 0, 0.5);
 }
 
 .clock {
@@ -48,6 +55,7 @@ body {
 .hand.hour-hand {
   width: 40%;
   transform-origin: 113%;
+  top: 49%;
 }
 
 .hand.second-hand {
@@ -65,4 +73,8 @@ body {
   top: 50%;
   left: 49%;
   border-radius: 50%;
+}
+
+.no-transition {
+  transition: none !important;
 }
