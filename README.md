@@ -16,7 +16,7 @@ https://javascript30.com/
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%201%20-%20Drum%20Kit">Day 1 - Drum Kit</a>
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%202%20-%20CSS%20%2B%20JS%20Clock">Day 2 - CSS + JS Clock</a>
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%203%20-%20Update%20CSS%20variables%20with%20JS">Day 3 - Update CSS variables with JS</a>
-- [ ] Array cardio Day 1
+- [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%204%20-%20Array%20Cardio%20Day%201">Day 4 - Array Cardio Day 1</a>
 - [ ] Flex panel image gallery
 - [ ] Ajax type ahead
 - [ ] Array cardio day 2
