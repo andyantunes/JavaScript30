@@ -1,6 +1,12 @@
 const panels = document.querySelectorAll(".panel");
 
+function closePanel() {
+  let panel = document.querySelector(".panel.open");
+  if (panel) panel.classList.remove("open");
+}
+
 function toggleOpen() {
+  if (!this.className.includes("open-active")) closePanel();
   this.classList.toggle("open");
 }
 
