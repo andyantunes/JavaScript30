@@ -5,7 +5,7 @@ This repository is intended for the 30 day Vanilla JS Challenge.
 - 30 challenges
 - One challenge a day
 - No Frameworks
-- No compillers
+- No compilers
 - No libs
 - Just Vanilla JS
 
@@ -18,7 +18,7 @@ https://javascript30.com/
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%203%20-%20Update%20CSS%20variables%20with%20JS">Day 3 - Update CSS variables with JS</a>
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%204%20-%20Array%20Cardio%20Day%201">Day 4 - Array Cardio Day 1</a>
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%205%20-%20Flex%20Panels%20Image%20Gallery">Day 5 - Flex panel gallery</a>
-- [ ] Ajax type ahead
+- [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%206%20-%20Ajax%20Type%20Ahead">Day 6 - Ajax type ahead</a>
 - [ ] Array cardio day 2
 - [ ] Fun with HTML5 canvas
 - [ ] 14 must know dev tools tricks
