@@ -22,7 +22,7 @@ https://javascript30.com/
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%207%20-%20Array%20CArdio%20Day%202">Day 7 - Array Cardio 💪💪</a>
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%208%20-%20Fun%20with%20HTML5%20Canvas">Fun with HTML5 canvas</a>
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%209%20-%2014%20Must%20Know%20Dev%20Tools%20Tricks">14 must know dev tools tricks</a>
-- [ ] Hold shift to check multiples checkboxes
+- [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2010%20-%20Hold%20Shift%20and%20Check%20Checkboxes">Hold shift to check multiples checkboxes</a>
 - [ ] Custom HTML5 video player
 - [ ] Key sequence detection (KONAMI CODE)
 - [ ] Slide in on scroll
