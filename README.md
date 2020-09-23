@@ -20,9 +20,9 @@ https://javascript30.com/
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%205%20-%20Flex%20Panels%20Image%20Gallery">Day 5 - Flex panel gallery</a>
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%206%20-%20Ajax%20Type%20Ahead">Day 6 - Ajax type ahead</a>
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%207%20-%20Array%20CArdio%20Day%202">Day 7 - Array Cardio 💪💪</a>
-- [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%208%20-%20Fun%20with%20HTML5%20Canvas">Fun with HTML5 canvas</a>
-- [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%209%20-%2014%20Must%20Know%20Dev%20Tools%20Tricks">14 must know dev tools tricks</a>
-- [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2010%20-%20Hold%20Shift%20and%20Check%20Checkboxes">Hold shift to check multiples checkboxes</a>
+- [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%208%20-%20Fun%20with%20HTML5%20Canvas">Day 8 - Fun with HTML5 canvas</a>
+- [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%209%20-%2014%20Must%20Know%20Dev%20Tools%20Tricks">Day 9 - 14 must know dev tools tricks</a>
+- [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2010%20-%20Hold%20Shift%20and%20Check%20Checkboxes">Day 10 - Hold shift to check multiples checkboxes</a>
 - [ ] Custom HTML5 video player
 - [ ] Key sequence detection (KONAMI CODE)
 - [ ] Slide in on scroll
