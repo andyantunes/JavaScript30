@@ -23,7 +23,7 @@ https://javascript30.com/
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%208%20-%20Fun%20with%20HTML5%20Canvas">Day 8 - Fun with HTML5 canvas</a>
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%209%20-%2014%20Must%20Know%20Dev%20Tools%20Tricks">Day 9 - 14 must know dev tools tricks</a>
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2010%20-%20Hold%20Shift%20and%20Check%20Checkboxes">Day 10 - Hold shift to check multiples checkboxes</a>
-- [ ] Custom HTML5 video player
+- [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2011%20-%20Custom%20HTML5%20Video%20Player">Day 11 - Custom HTML5 video player</a>
 - [ ] Key sequence detection (KONAMI CODE)
 - [ ] Slide in on scroll
 - [ ] Object and arrays - reference vc copy
