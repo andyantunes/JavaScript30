@@ -24,8 +24,8 @@ https://javascript30.com/
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%209%20-%2014%20Must%20Know%20Dev%20Tools%20Tricks">Day 9 - 14 must know dev tools tricks</a>
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2010%20-%20Hold%20Shift%20and%20Check%20Checkboxes">Day 10 - Hold shift to check multiples checkboxes</a>
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2011%20-%20Custom%20HTML5%20Video%20Player">Day 11 - Custom HTML5 video player</a>
-- [ ] Key sequence detection (KONAMI CODE)
-- [ ] Slide in on scroll
+- [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2012%20-%20Key%20Sequence%20Detection%20(KONAMI%20CODE)">Key sequence detection (KONAMI CODE)</a>
+- [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2013%20-%20Slide%20In%20on%20Scroll">Slide in on scroll</a>
 - [ ] Object and arrays - reference vc copy
 - [ ] Localstorage and event delegation
 - [ ] CSS text shadow moude move effect
