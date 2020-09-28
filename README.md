@@ -26,7 +26,7 @@ https://javascript30.com/
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2011%20-%20Custom%20HTML5%20Video%20Player">Day 11 - Custom HTML5 video player</a>
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2012%20-%20Key%20Sequence%20Detection%20(KONAMI%20CODE)">Key sequence detection (KONAMI CODE)</a>
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2013%20-%20Slide%20In%20on%20Scroll">Slide in on scroll</a>
-- [ ] Object and arrays - reference vc copy
+- [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2014%20-%20Object%20and%20Arrays%20-%20Reference%20VS%20Copy">Object and arrays - reference vc cop</a>y
 - [ ] Localstorage and event delegation
 - [ ] CSS text shadow moude move effect
 - [ ] Sorting banb names without aticles
