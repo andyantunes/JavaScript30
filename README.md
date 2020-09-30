@@ -29,7 +29,7 @@ https://javascript30.com/
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2014%20-%20Object%20and%20Arrays%20-%20Reference%20VS%20Copy">Day 14 - Object and arrays - reference vc copying</a>
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2015%20-%20LocalStorage"> Day 15 - LocalStorage and event delegation</a>
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2016%20-%20Mouse%20Move%20Shadow"> Day 16 - CSS text shadow mouse move effect</a>
-- [ ] Sorting banb names without aticles
+- [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/day%2017%20-%20Sort%20Without%20Articles">Sorting band names without articles</a>
 - [ ] Tally string times with reduce
 - [ ] Unreal webcam fun
 - [ ] Native speech recognition
