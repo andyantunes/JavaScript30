@@ -2,3 +2,4 @@ gitignore
 *.txt
 *.mp4
 *.gif
+./Day 19 - Webcam Fun/node_modules/*
