@@ -31,7 +31,7 @@ https://javascript30.com/
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2016%20-%20Mouse%20Move%20Shadow"> Day 16 - CSS text shadow mouse move effect</a>
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/day%2017%20-%20Sort%20Without%20Articles">Day 17 - Sorting band names without articles</a>
 - [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2018%20-%20Adding%20Up%20Times%20with%20Reduce"> Day 18 - Tally string times with reduce</a>
-- [ ] Unreal webcam fun
+- [x] <a href="https://github.com/andyantunes/JavaScript30/tree/master/Day%2019%20-%20Webcam%20Fun">Day 19 - Unreal webcam fun</a>
 - [ ] Native speech recognition
 - [ ] Geolocation based speedometer and compass
 - [ ] Follow along links
